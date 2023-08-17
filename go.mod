@@ -1,4 +1,4 @@
-module argument_checker
+module github.com/toshiki-otaka/argument_checker
 
 go 1.20
 
