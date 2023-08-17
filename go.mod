@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/gostaticanalysis/testutil v0.4.0
-	golang.org/x/tools v0.12.0
+	golang.org/x/tools v0.9.3
 )
 
 require (
