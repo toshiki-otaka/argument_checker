@@ -3,9 +3,8 @@ package argument_checker_test
 import (
 	"testing"
 
-	"argument_checker"
-
 	"github.com/gostaticanalysis/testutil"
+	"github.com/toshiki-otaka/argument_checker"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

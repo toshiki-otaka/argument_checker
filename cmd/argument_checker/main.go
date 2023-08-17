@@ -1,8 +1,7 @@
 package main
 
 import (
-	"argument_checker"
-
+	"github.com/toshiki-otaka/argument_checker"
 	"golang.org/x/tools/go/analysis/unitchecker"
 )
 
